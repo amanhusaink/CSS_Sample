@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(253, 251, 247);
+    font-family: 'Signika', sans-serif;
+}
+.heading{
+    color: rgb(94, 89, 89);
+}
+li{
+    list-style-type: none;
+    background-color: gray;
+    padding: 10px 20px;
+    margin-bottom: 5px;
+    color: white;
+    width: 300px;
+}
+li:hover{
+    color: tomato;
+    background-color: thistle;
+}
+li,li a{
+    text-decoration: none;
+    color: rgb(46, 43, 43);
+    
+}
